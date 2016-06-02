@@ -11,35 +11,32 @@ namespace Pedidos.iOS
 {
     class Config : Pedidos.Interfaces.IConfig
     {
-        public Config 
+        private string directorioDB;
+        private IQSLitePlatform platforma;
+            
+        public string DirectorioDB
         {
-            private string directorioDB;
-            private IQSLitePlatform platforma;
-            
-            public string DirectorioDB
+            get
             {
-                get
+                if(string.IsNullOrEmpty(directorioDB))
                 {
-                    if(string.IsNullOrEmpty(directorioDB))
-                    {
-                        var directorio = System.Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-                        directorioDB = System.IO.Path.Combine(directorio, "..", "Library");
-                    }
-                    return directorioDB;
+                    var directorio = System.Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+                    directorioDB = System.IO.Path.Combine(directorio, "..", "Library");
                 }
+                return directorioDB;
             }
+        }
             
-            public ISQLitePlatform Plataforma
+        public ISQLitePlatform Plataforma
+        {
+            get
             {
-                get
+                if(plataforma == null)
                 {
-                    if(plataforma == null)
-                    {
-                        plataforma = new SQLite.Net.Platform.XamarinIOS.SQLitePlatformIOS();
-                    }
-                    return plataforma;
+                    plataforma = new SQLite.Net.Platform.XamarinIOS.SQLitePlatformIOS();
                 }
+                return plataforma;
             }
-        }  
-    }
+        }
+    }  
 }

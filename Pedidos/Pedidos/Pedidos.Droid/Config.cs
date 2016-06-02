@@ -11,34 +11,31 @@ namespace Pedidos.Droid
 {
     class Config : Pedidos.Interfaces.IConfig
     {
-        public Config() //Caso dê erro aqui, remove esses parenteses
+        private string directorioDB;
+        private ISQLPlatform plataforma;
+            
+        public string DirectorioDB
         {
-            private string directorioDB;
-            private ISQLPlatform plataforma;
-            
-            public string DirectorioDB
+            get
             {
-                get
+                if(string.IsNullOrEmpty(directorioDB))
                 {
-                    if(string.IsNullOrEmpty(directorioDB))
-                    {
-                        directorioDB = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
-                    }
-                    return directorioDB;
+                     directorioDB = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
                 }
+                return directorioDB;
             }
+        }
             
-            public ISQLPlatform Plataforma
+        public ISQLPlatform Plataforma
+        {
+            get
             {
-                get
+                if(plataforma == null) 
                 {
-                    if(plataforma == null) 
-                    {
-                        plataforma = new SQLite.Net.Platform.XamarinAndroid.SQLitePlatformAndroid();
-                    }
-                    return plataforma;
+                    plataforma = new SQLite.Net.Platform.XamarinAndroid.SQLitePlatformAndroid();
                 }
+                return plataforma;
             }
-        }   
+        }
     }
 }
