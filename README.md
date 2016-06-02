@@ -1,2 +1,2 @@
 # Xamarin
-Xamarin project with Rest and SQLite
+Xamarin project with Rest and SQLite.
