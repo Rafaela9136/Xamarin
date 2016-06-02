@@ -16,8 +16,7 @@ namespace Pedidos
             connection = new SQLiteConnection(config.Plataforma, SYstem.IO.Path.Combine(config.DirectorioDB, "Pedidos.db3"));
             connection.CreateTable<DeviceUser>();
         }
-        git config --global user.email "email"
-        ''   ''       ''    user.name "my name"
+        
         public void InsertDeviceUser(DeviceUser deviceUser) 
         {
             connection.Insert(deviceUser);
