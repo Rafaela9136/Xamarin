@@ -1,0 +1,11 @@
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xaml
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xbf
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlSaveStateFile.xml

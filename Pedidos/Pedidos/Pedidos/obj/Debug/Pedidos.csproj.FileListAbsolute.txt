@@ -1,0 +1,2 @@
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.App.config
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
