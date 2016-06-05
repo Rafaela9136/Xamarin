@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pedidos.Pages.Login">
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout Spacing="10">
+        <Label Text="Carro de Compras" Font="30" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Label Text="Login" Font="20" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Entry x:Name="userEntry" Placeholder="Usuario" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Entry x:Name="passwordEntry" Placeholder="Senha" IsPassword="true" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <StackLayout Orientation="Horizontal">
+          <Label Text="Lembre de mim" HorizontalOptions="Start" VerticalOptions="Center"/>
+            <Switch x:Name="rememberMeSwitch" HorizontalOptions="End" VerticalOptions="Center"/>
+          </StackLayout>
+        <ActivityIndicator x:Name="waitActivityIndicator" HorizontalOptions="Center" VerticalOptions="Center"/>
+          <Button x:Name="enterButton" Text="Entrar" BackgroundColor="Navy" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

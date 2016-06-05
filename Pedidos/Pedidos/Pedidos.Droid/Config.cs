@@ -1,36 +1,33 @@
-﻿using Pedidos.Droid;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using SQLite.Net.Iterop;
+﻿using System;
+using SQLite.Net.Interop;
 using Xamarin.Forms;
 
 [assembly: Dependency(typeof(Pedidos.Droid.Config))]
 
 namespace Pedidos.Droid
 {
-    class Config : Pedidos.Interfaces.IConfig
+    public class Config : Interface.IConfig
     {
-        private string directorioDB;
-        private ISQLPlatform plataforma;
-            
+        private string _diretorioBD;
+        private ISQLitePlatform plataforma;
+
         public string DirectorioDB
         {
             get
             {
-                if(string.IsNullOrEmpty(directorioDB))
+                if (string.IsNullOrEmpty(_diretorioBD))
                 {
-                     directorioDB = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+                    _diretorioBD = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
                 }
-                return directorioDB;
+                return _diretorioBD;
             }
         }
-            
-        public ISQLPlatform Plataforma
+
+        public ISQLitePlatform Platforma
         {
             get
             {
-                if(plataforma == null) 
+                if (plataforma == null)
                 {
                     plataforma = new SQLite.Net.Platform.XamarinAndroid.SQLitePlatformAndroid();
                 }

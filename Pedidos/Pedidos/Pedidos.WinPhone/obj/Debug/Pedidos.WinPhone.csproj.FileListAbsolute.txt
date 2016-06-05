@@ -1,11 +1,55 @@
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.csprojResolveAssemblyReference.cache
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.i.cs
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.cs
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.i.cs
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.cs
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlTypeInfo.g.cs
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xaml
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xaml
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xbf
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xbf
-C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.g.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xaml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\App.xbf
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\App.xbf
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.WinPhone.xr.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.WinPhone.exe
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.WinPhone.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\resources.pri
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.WinPhone.build.appxrecipe
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\SQLite.Net.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\SQLite.Net.Platform.WinRT.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Pedidos.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.pri
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.exe
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Pedidos.WinPhone.csproj.GenerateResource.Cache
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\priconfig.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\layout.resfiles
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\resources.resfiles
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\pri.resfiles
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\obj\Debug\ProjectArchitectures.txt

@@ -12,34 +12,34 @@ namespace Pedidos
         
         public DataAcess ()
         {
-            var config = DependencyService.Get<IConfig>();
-            connection = new SQLiteConnection(config.Plataforma, SYstem.IO.Path.Combine(config.DirectorioDB, "Pedidos.db3"));
-            connection.CreateTable<DeviceUser>();
+            var config = DependencyService.Get<Interface.IConfig>();
+            connection = new SQLiteConnection(config.Platforma, System.IO.Path.Combine(config.DirectorioDB, "pedidos.db3"));
+            connection.CreateTable<models.DeviceUser>();
         }
         
-        public void InsertDeviceUser(DeviceUser deviceUser) 
+        public void InsertDeviceUser(models.DeviceUser deviceUser) 
         {
             connection.Insert(deviceUser);
         }
         
-        public void UpdateDeviceUser(DeviceUser deviceUser) 
+        public void UpdateDeviceUser(models.DeviceUser deviceUser) 
         {
             connection.Update(deviceUser);
         }
         
-        public void DeleteDeviceUser(DeviceUser deviceUser) 
+        public void DeleteDeviceUser(models.DeviceUser deviceUser) 
         {
             connection.Delete(deviceUser);
         }
         
-        public DeviceUser GetDeviceUser(int id) 
+        public models.DeviceUser GetDeviceUser(int id) 
         {
-            return connection.Table<DeviceUser>().FirstOrDefault(du => du.DeviceUserID == id);
+            return connection.Table<models.DeviceUser>().FirstOrDefault(du => du.DeviceUserId == id);
         }
         
-        public List<DeviceUser> GetDeviceUsers()
+        public List<models.DeviceUser> GetDeviceUsers()
         {
-            return connection.Table<DeviceUser>().ToList();
+            return connection.Table<models.DeviceUser>().ToList();
         }
         
         public void Dispose()

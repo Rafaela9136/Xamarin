@@ -1,2 +1,36 @@
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.App.config
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.Pages.Login.xaml.g.cs
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Pedidos.dll.config
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Pedidos.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Pedidos.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\SQLite.Net.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.dll
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.dll.mdb
+C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\bin\Debug\Pedidos.dll.mdb
+C:\Users\Rafaela Lacerda\Documents\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.App.config
+C:\Users\Rafaela Lacerda\Documents\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
+C:\Users\Rafaela Lacerda\Documents\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.Pages.Login.xaml.g.cs
+C:\Users\Rafaela Lacerda\Documents\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.dll
+C:\Users\Rafaela Lacerda\Documents\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.pdb
 C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csproj.App.config
 C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.csprojResolveAssemblyReference.cache
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.Pages.Login.xaml.g.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.Pages.MenuPage.xaml.g.cs
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.dll
+C:\Users\Rafaela Lacerda\Xamarin\Pedidos\Pedidos\Pedidos\obj\Debug\Pedidos.pdb

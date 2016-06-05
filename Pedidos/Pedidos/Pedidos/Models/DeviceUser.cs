@@ -1,13 +1,8 @@
-﻿using SQLite;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SQLite.Net.Attributes;
 
 namespace Pedidos.models
 {
-    class DeviceUser
+    public class DeviceUser
     {
         [PrimaryKey, AutoIncrement]
         public int DeviceUserId {get; set;}

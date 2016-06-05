@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using Pedidos.Pages;
 
 namespace Pedidos
 {
@@ -11,8 +12,16 @@ namespace Pedidos
     {
         public App()
         {
-            // The root page of your application
-            MainPage = new NavigationPage(new LoginPage());
+            using (var datas = new DataAcess())
+            {
+                var deviceUser = datas.GetDeviceUsers().FirstOrDefault();
+                if (deviceUser != null)
+                {
+                    MainPage = new NavigationPage(new MenuPage(deviceUser));
+                } else {
+                    MainPage = new NavigationPage(new Login());
+                }
+            };
         }
 
         protected override void OnStart()
