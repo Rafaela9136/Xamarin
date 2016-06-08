@@ -1,2 +1,2 @@
-C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos.WinPhone\Pedidos.WinPhone.csproj;neutral
-C:\Users\wendley\Documents\GitHub\Xamarin\Pedidos\Pedidos\Pedidos\Pedidos.csproj;neutral
+C:\Users\wendley\Documents\Visual Studio 2015\Projects\Xamarin-master\Pedidos\Pedidos\Pedidos.WinPhone\Pedidos.WinPhone.csproj;neutral
+C:\Users\wendley\Documents\Visual Studio 2015\Projects\Xamarin-master\Pedidos\Pedidos\Pedidos\Pedidos.csproj;neutral

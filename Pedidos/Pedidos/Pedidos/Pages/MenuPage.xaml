@@ -6,7 +6,25 @@
       <ScrollView>
         <StackLayout Spacing="10">
           <Label x:Name="welcomeLabel" Font="30" HorizontalOptions="Center" VerticalOptions="Center"/>
-          <Button x:Name="closeSessionButton" Text="Encerrar sessão" BackgroundColor="Navy" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+          <ActivityIndicator x:Name="waitActivityIndicator" HorizontalOptions="Center" VerticalOptions="Center"/>
+          <StackLayout Orientation="Horizontal">
+            <Button x:Name="closeSessionButton" Text="Encerrar sessão" BackgroundColor="Navy" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+            <Button x:Name="newButton" Text="Nova compra" BackgroundColor="Yellow" TextColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>            
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label Text="Cliente:" HorizontalOptions="Start" VerticalOptions="Center"></Label>
+            <Picker x:Name="customerPicker" Title="Selecione um cliente" HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Picker>
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label Text="Produto:" HorizontalOptions="Start" VerticalOptions="Center"></Label>
+            <Picker x:Name="productPicker" Title="Selecione um produto" HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Picker>
+          </StackLayout>
+          <StackLayout Orientation="Horizontal">
+            <Label Text="Quantidade:" HorizontalOptions="Start" VerticalOptions="Center"></Label>
+            <Entry x:Name="quantityEntry" Placeholder="Quantidade" Keyboard="Numeric" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+            <Button x:Name="addButton" Text="Adicionar" BackgroundColor="Green" TextColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>                     
+          </StackLayout>
+          <ListView x:Name="detailsListView"/>
         </StackLayout>
       </ScrollView>
     </ContentPage.Content>

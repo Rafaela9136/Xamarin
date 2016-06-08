@@ -4,7 +4,7 @@ namespace Pedidos.models
 {
     public class DeviceUser
     {
-        [PrimaryKey, AutoIncrement]
+        [PrimaryKey]
         public int DeviceUserId {get; set;}
         public string NickName { get; set;}
         public string FirstName { get; set;}

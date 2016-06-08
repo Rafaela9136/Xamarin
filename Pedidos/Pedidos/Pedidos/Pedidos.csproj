@@ -37,8 +37,13 @@
   <ItemGroup>
     <Compile Include="App.cs" />
     <Compile Include="Interface\IConfig.cs" />
+    <Compile Include="models\Customer.cs" />
     <Compile Include="models\DataAcess.cs" />
     <Compile Include="models\DeviceUser.cs" />
+    <Compile Include="models\Product.cs" />
+    <Compile Include="models\Sale.cs" />
+    <Compile Include="models\SaleDetail.cs" />
+    <Compile Include="models\SaleDetailTmp.cs" />
     <Compile Include="Pages\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>

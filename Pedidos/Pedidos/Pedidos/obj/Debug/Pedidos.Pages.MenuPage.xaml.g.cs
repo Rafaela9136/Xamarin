@@ -20,13 +20,41 @@ namespace Pedidos.Pages {
         private global::Xamarin.Forms.Label welcomeLabel;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ActivityIndicator waitActivityIndicator;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Button closeSessionButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button newButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Picker customerPicker;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Picker productPicker;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Entry quantityEntry;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button addButton;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.ListView detailsListView;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MenuPage));
             welcomeLabel = this.FindByName<global::Xamarin.Forms.Label>("welcomeLabel");
+            waitActivityIndicator = this.FindByName<global::Xamarin.Forms.ActivityIndicator>("waitActivityIndicator");
             closeSessionButton = this.FindByName<global::Xamarin.Forms.Button>("closeSessionButton");
+            newButton = this.FindByName<global::Xamarin.Forms.Button>("newButton");
+            customerPicker = this.FindByName<global::Xamarin.Forms.Picker>("customerPicker");
+            productPicker = this.FindByName<global::Xamarin.Forms.Picker>("productPicker");
+            quantityEntry = this.FindByName<global::Xamarin.Forms.Entry>("quantityEntry");
+            addButton = this.FindByName<global::Xamarin.Forms.Button>("addButton");
+            detailsListView = this.FindByName<global::Xamarin.Forms.ListView>("detailsListView");
         }
     }
 }
